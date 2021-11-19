@@ -1,3 +1,10 @@
+This is a Single Page Application built with React that allows users to track their monthly and yearly expenses. It allows users to track past expenses or plan future ones and compare them. 
+
+Technologies used in creating this SPA are ReactJS, JavaScript, HTML5, CSS3 and SCSS.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
